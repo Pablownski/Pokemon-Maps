@@ -1,2 +1,2 @@
 # Pokemon-Maps
-En este espacio se utilizaron tres tipos de Maps para poder ordenar los datos extraidos de un archivo CSV
+En este espacio se utilizaron tres tipos de Maps para poder ordenar los datos extraidos de un archivo CSV. El programa consistia en Leer un programa y pedir al usuario hacer una coleccion de pokemon. El programa debe presentar un menu de opciones y preguntar si quiere añadir, buscar informacion, ver colección, ver lista de pokemon y buscar pokemon por habilidad. Por último, calcular la complejidad del Map implementado en la instrucción 4. 
